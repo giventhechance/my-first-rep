@@ -1,5 +1,5 @@
 BOOK 2 TITLE
 start of book...
-book
+body of book
 end of book.
 
